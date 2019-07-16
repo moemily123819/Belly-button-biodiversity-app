@@ -1,20 +1,20 @@
-### **Belly Button Biodiversity Dashboard**
+# **Belly Button Biodiversity Dashboard**
 
  
 
-#### **Objective :**
+### **Objective :**
 
-**An app to allow interactive selection of belly button swap samples and it visualizes the different kinds and volumes of microbes in a pie chart, a bubble chart and a gauge chart.**
-
- 
-
-#### **Author :**
-
-**Emily Mo**
+An app to allow interactive selection of belly button swap samples and it visualizes the different kinds and volumes of microbes in a pie chart, a bubble chart and a gauge chart.**
 
  
 
-#### **About the data :**
+### **Author :**
+
+Emily Mo
+
+ 
+
+### **About the data :**
 
 It is based on the coolest study of biodiversity on the human body on the planet.  Weblink : http://robdunnlab.com/projects/belly-button-biodiversity/
 
@@ -26,7 +26,7 @@ Dive into my dashboard to see which and how much microbes strive in belly button
 
  
 
-#### **About this dashboard :**
+### **About this dashboard :**
 
 This app uses HTML/CSS/Bootstrap, flask app, javascript, plot-ly, aja, sqlite, sql-alchemy and json format.  
 
