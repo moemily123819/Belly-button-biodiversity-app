@@ -1,0 +1,1 @@
+FLASK_APP=Belly_Button_Biodiversity/app_heroku.py flask run
