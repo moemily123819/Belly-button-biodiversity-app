@@ -28,7 +28,15 @@ Dive into my dashboard to see which and how much microbes strive in belly button
 
 ### **About this dashboard :**
 
-This app uses HTML/CSS/Bootstrap, flask app, javascript, plot-ly, aja, sqlite, sql-alchemy and json format.  
+This app uses :
+     - HTML/CSS/Bootstrap
+     - flask app (python)
+     - javascript
+     - plot-ly
+     - ajax 
+     - sqlite 
+     - sql-alchemy
+     - and json format.  
 
 The flask app renders the template which uses javascript to drive the selection of the belly button samples data visualization.
 
